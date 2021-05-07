@@ -293,7 +293,7 @@ camera.position.x=player.x;
   text("food",box5.x-box5.width/3,box5.y);
   text("food",box6.x-box6.width/3,box6.y);
 
-      stroke(0,0,0,240);
+      stroke(0,0,0,230);
       strokeWeight(windowWidth/1.25);
       noFill();
       ellipse(player.x,player.y,windowWidth,windowWidth);
